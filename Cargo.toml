@@ -2,6 +2,8 @@
 name = "lau-provenance-chain"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+repository = "https://github.com/SuperInstance/lau-provenance-chain"
 description = "Full provenance chains — every decision, every alternative considered, every reason why"
 
 [dependencies]
